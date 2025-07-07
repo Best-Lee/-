@@ -80,7 +80,6 @@ config = load_config()
 
 # 创建UI界面
 def create_ui():
-    global account, password, wechat_path, time1, time2, remove_names
 
     # 创建主窗口
     root = tk.Tk()
