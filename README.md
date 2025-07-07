@@ -52,3 +52,4 @@
 - 如若无法识别企业微信搜索框，请自行截图并替换文件夹中的search.jpg（注意保持命名一致）
 - 请确保 Excel 文件位于程序目录下，且格式正确。
 
+![image](https://github.com/user-attachments/assets/410ef37e-9101-479e-aebf-ddeed68c5114)
