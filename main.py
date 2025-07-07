@@ -414,9 +414,7 @@ def run_program():
 
         if f"{current_hour:02d}:{current_minute:02d}" == config["time1"]:
             #获取未晚签名单
-            #names=getnamelist()
-            names=['王皓翰','张宇航','郑俊韬']
-            #names=['韦世泽', '刘畅', '周浩喆', '姚甜甜', '周乐涵', '祁薇晓', '蒋勤勤', '伊斯拉皮力·玉山木', '谢秉桦', '艾力库提·阿合买提江', '坚才索朗', '陈天月', '刘媛', '冯慧', '罗映雪', '李青颖', '明红艳']
+            names=getnamelist()
             print(f'未晚签名单{names}')
 
             #打开企业微信
